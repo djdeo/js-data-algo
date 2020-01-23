@@ -20,3 +20,17 @@ list.append('abc')
 list.append('4dd')
 list.append('tqsd')
 ```
+## BinarySearchTree
+
+```bash
+const bst = new BinarySearchTree()
+
+bst.insert(11)
+bst.insert(7)
+bst.insert(15)
+bst.insert(3)
+bst.insert(9)
+bst.insert(8)
+bst.insert(10)
+bst.remove(7)
+```
