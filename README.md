@@ -34,3 +34,29 @@ bst.insert(8)
 bst.insert(10)
 bst.remove(7)
 ```
+
+## ArrayList
+
+```bash
+const list = new ArrayList()
+list.insert(3)
+list.insert(5)
+list.insert(6)
+list.insert(8)
+list.insert(17)
+list.insert(213)
+list.insert(99)
+list.insert(10)
+list.insert(22)
+list.insert(333)
+
+// test sorting methods
+
+// list.bubbleSort()
+// list.selectionSort()
+// list.insertionSort()
+// list.shellSort()
+list.quickSort()
+
+console.log(list.toString())
+```
