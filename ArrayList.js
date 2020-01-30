@@ -131,9 +131,7 @@ function ArrayList() {
     		while(this.array[--j] > pivot) {} // 在右边找小于枢纽的值
     		if(i < j) {
     			this.swap(i, j)
-    		} else {
-    			break
-    		}
+    		} 
     	}
 
     	// 5. 将枢纽放回正确的位置， i的位置
