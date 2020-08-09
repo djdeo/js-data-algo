@@ -60,3 +60,8 @@ list.quickSort()
 
 console.log(list.toString())
 ```
+
+## LinkedList
+use the `LinkedList-Class.js` file
+it's another way of achieving linked list
+
